@@ -8,21 +8,18 @@ ol.f {list-style-type: lower-alpha;}
 ol.g {list-style-type: decimal;}
 
 h1 {
-font-family: "American Typewriter", serif;
-
+  font-family: "American Typewriter", serif;
 }
 
 h2 {
-font-family: "Copperplate", serif;
-font-size: 35px;
-color: #A61E71;
-
+  font-family: "Copperplate", serif;
+  font-size: 35px;
+  color: #A61E71;
 }
 
 h3 {
-font-family: "American Typewriter", serif;
-color: #6A9998;
-
+  font-family: "American Typewriter", serif;
+  color: #6A9998;
 }
 
 p {
@@ -43,7 +40,7 @@ font-style: italic;
 
 body {
   /** actual corona virus */
- /** background-image: url(coronavirus.gif); */
+  /** background-image: url(coronavirus.gif); */
 
   --s: 50px; /* control the size*/
   --c1: #6aa1b4;
