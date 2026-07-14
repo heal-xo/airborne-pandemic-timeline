@@ -1,0 +1,30 @@
+/* TODO is there benefit in current year to a standard "reset" stylesheet? or are we good now? */
+
+/* TODO pull common styles out of proto.css */
+
+html, body {
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+p.thick {
+  font-weight: bold;
+}
